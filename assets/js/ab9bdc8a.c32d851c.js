@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhep_guide=self.webpackChunkhep_guide||[]).push([[7901],{1831:(e,l,t)=>{t.r(l),t.d(l,{default:()=>r});var u=t(8244),i=t(4848);function r(){return(0,i.jsx)(u.A,{title:"Hello",description:"Hello React Page",children:(0,i.jsx)("h1",{children:"Support Pages"})})}}}]);

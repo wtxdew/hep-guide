@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhep_guide=self.webpackChunkhep_guide||[]).push([[6306],{787:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/~tong/survival/zh-TW/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
