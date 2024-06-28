@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhep_guide=self.webpackChunkhep_guide||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/~tong/survival/blog/first-blog-post","unlisted":false},{"title":"Welcome","permalink":"/~tong/survival/blog/welcome","unlisted":false}]}')}}]);

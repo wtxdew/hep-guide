@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://hep1.phys.ntu.edu.tw/~tong/survival/blog/first-blog-post</link>
-            <guid>https://hep1.phys.ntu.edu.tw/~tong/survival/blog/first-blog-post</guid>
+            <link>https://hep1.phys.ntu.edu.tw/~tong/survival/blog/2024/06/22/template</link>
+            <guid>https://hep1.phys.ntu.edu.tw/~tong/survival/blog/2024/06/22/template</guid>
             <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
             <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
@@ -39,8 +39,8 @@
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://hep1.phys.ntu.edu.tw/~tong/survival/blog/welcome</link>
-            <guid>https://hep1.phys.ntu.edu.tw/~tong/survival/blog/welcome</guid>
+            <link>https://hep1.phys.ntu.edu.tw/~tong/survival/blog/2021/08/26/welcome</link>
+            <guid>https://hep1.phys.ntu.edu.tw/~tong/survival/blog/2021/08/26/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
             <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
